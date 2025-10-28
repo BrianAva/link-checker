@@ -106,9 +106,9 @@ The app will automatically open in your default browser at `http://localhost:850
 ### Example Input
 
 ```
-https://www.example.com/page1
-https://www.example.com/about
-https://www.example.com/contact
+https://www.avalara.com/page1
+https://www.avalara.com/about
+https://www.avalara.com/contact
 https://www.example.com/blog/post-1
 ```
 
@@ -355,8 +355,8 @@ SOFTWARE.
 ## 👤 Author
 
 **Your Name**
-- GitLab: [@yourusername](https://gitlab.com/yourusername)
-- Email: your.email@example.com
+- Github: (https://github.com/BrianAva/)
+
 
 ## 🙏 Acknowledgments
 
@@ -379,4 +379,5 @@ If you encounter issues or have questions:
 ---
 
 **Made with ❤️ for digital producers and content teams**
+
 
